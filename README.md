@@ -14,7 +14,7 @@ This project analyzes a breast cancer dataset to explore patterns and build insi
 - Data cleaning and preprocessing
 - Exploratory Data Analysis (EDA)
 - Visualization of patterns
-- Model building (if varsa yaz)
+- Model building
 
 ##  Insights
 - Certain features strongly correlate with diagnosis
